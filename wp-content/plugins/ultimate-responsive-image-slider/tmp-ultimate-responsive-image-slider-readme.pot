@@ -1,0 +1,394 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Ultimate Responsive Image Slider"
+msgstr ""
+
+#. Short description.
+msgid "Add Fully Responsive Image Slider To Your WordPress Blog"
+msgstr ""
+
+#. Screenshot description.
+msgid "Slider Preview Above Content"
+msgstr ""
+
+#. Screenshot description.
+msgid "Slider Preview Between Content"
+msgstr ""
+
+#. Screenshot description.
+msgid "Slider Preview Below Content With Bullets Navigation"
+msgstr ""
+
+#. Screenshot description.
+msgid "Slider Preview With Thumbnail Navigation"
+msgstr ""
+
+#. Screenshot description.
+msgid "Slider Preview Without Bullets &amp; Thumbnail Navigation"
+msgstr ""
+
+#. Screenshot description.
+msgid "Slider Preview With Custom Height &amp; Width"
+msgstr ""
+
+#. Screenshot description.
+msgid "Slider Preview With Content &amp; Without Bullets &amp; Thumbnail Navigation"
+msgstr ""
+
+#. Screenshot description.
+msgid "Slider Preview With Thumbnail Navigation Two"
+msgstr ""
+
+#. Screenshot description.
+msgid "Add Slide Images Through Plugin Media uploader"
+msgstr ""
+
+#. Screenshot description.
+msgid "Slider Settings For Individual Slide Show"
+msgstr ""
+
+#. Screenshot description.
+msgid "Slider Shortcode Copy Widget Within Plugin Dashboard"
+msgstr ""
+
+#. Found in description header.
+msgid "Ultimate Responsive Image Slider Pro Features:"
+msgstr ""
+
+#. Found in description header.
+msgid "<strong>Live Demos</strong>"
+msgstr ""
+
+#. Found in description header.
+msgid "Plugin Admin Features"
+msgstr ""
+
+#. Found in description header.
+msgid "Try Ultimate Responsive Image Slider Pro Demo: <a href=\"http://demo.weblizar.com/ultimate-responsive-image-slider-pro/\">Live Demo</a>"
+msgstr ""
+
+#. Found in description header.
+msgid "Try Ultimate Responsive Image Slider Pro Admin: <a href=\"http://demo.weblizar.com/ultimate-responsive-image-slider-pro-admin-demo/\">Admin Demo</a>"
+msgstr ""
+
+#. Found in description header.
+msgid "Upgrade To: <a href=\"https://weblizar.com/plugins/ultimate-responsive-image-slider-pro/\">Ultimate Responsive Image Slider Pro</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Fully Responsive Slider Plugin"
+msgstr ""
+
+#. Found in description list item.
+msgid "Multiple Image Uploader"
+msgstr ""
+
+#. Found in description list item.
+msgid "Add Unlimited Image Slides Into Single Slider"
+msgstr ""
+
+#. Found in description list item.
+msgid "Show Multiple Sliders Into Single Page / Post"
+msgstr ""
+
+#. Found in description list item.
+msgid "Image Slider Setting Dashboard"
+msgstr ""
+
+#. Found in description list item.
+msgid "Enable/Disable Slider Title"
+msgstr ""
+
+#. Found in description list item.
+msgid "Enable/Disable Slide Title"
+msgstr ""
+
+#. Found in description list item.
+msgid "Enable/Disable Slide Description"
+msgstr ""
+
+#. Found in description list item.
+msgid "Enable/Disable Navigation Bullets"
+msgstr ""
+
+#. Found in description list item.
+msgid "Enable/Disable Slide Thumbnails"
+msgstr ""
+
+#. Found in description list item.
+msgid "All Major &amp; Latest Browser Compatible (IE, Chrome, Firefox)"
+msgstr ""
+
+#. Found in description list item.
+msgid "All Major Device Support"
+msgstr ""
+
+#. Found in description list item.
+msgid "Multilingual Translation Ready"
+msgstr ""
+
+#. Found in description list item.
+msgid "Drag And Drop Image Position"
+msgstr ""
+
+#. Found in description list item.
+msgid "5 Slider Layout"
+msgstr ""
+
+#. Found in description list item.
+msgid "Unlimited Color Scheme"
+msgstr ""
+
+#. Found in description list item.
+msgid "Touch Slider"
+msgstr ""
+
+#. Found in description list item.
+msgid "Full Screen slideshow"
+msgstr ""
+
+#. Found in description list item.
+msgid "Thumbnail Slider"
+msgstr ""
+
+#. Found in description list item.
+msgid "Lightbox Integrated"
+msgstr ""
+
+#. Found in description list item.
+msgid "External Link Button"
+msgstr ""
+
+#. Found in description list item.
+msgid "Carousel Slider"
+msgstr ""
+
+#. Found in description list item.
+msgid "All Gallery Shortcode"
+msgstr ""
+
+#. Found in description list item.
+msgid "Each Gallery has Unique Shortcode"
+msgstr ""
+
+#. Found in description list item.
+msgid "Drag and Drop image Position"
+msgstr ""
+
+#. Found in description list item.
+msgid "Multiple Image uploader"
+msgstr ""
+
+#. Found in description list item.
+msgid "Shortcode Button on post or page"
+msgstr ""
+
+#. Found in description list item.
+msgid "Unique settings for each gallery"
+msgstr ""
+
+#. Found in description list item.
+msgid "Auto Play Pause"
+msgstr ""
+
+#. Found in description list item.
+msgid "All Browser Compatible"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://demo.weblizar.com/ultimate-responsive-image-slider-pro/\">DEMO : Layout 1</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://demo.weblizar.com/ultimate-responsive-image-slider-pro/slider-layout-2/\">DEMO : Layout 2</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://demo.weblizar.com/ultimate-responsive-image-slider-pro/slider-layout-3/\">DEMO : Layout 3</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://demo.weblizar.com/ultimate-responsive-image-slider-pro/slider-layout-4/\">DEMO : Layout 4</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://demo.weblizar.com/ultimate-responsive-image-slider-pro/slider-layout-5/\">DEMO : Layout 5</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Ultimate responsive image slider a fully responsive slider plugin for WordPress blog users. You can add infinite image slides in a single slider using multiple image uploader. You can publish unlimited slider on your blog."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Images slider has various settings like customizable height and width, auto play slides, slide thumbnails, navigation buttons and many more. You can configure each slider setting individually and accordingly to you. You can show slider within the Page or Post content."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Using <strong>[URIS id=123]</strong> shortcode, you can publish image slider in any Page or Post in your WordPress sites."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Free Plugin Demo:</strong> <a href=\"http://demo.weblizar.com/ultimate-responsive-image-slider-free/\">Ultimate Responsive Image Slider Free Demo</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Free Plugin Features</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "A Perfect Responsive Image Slider plugin for WordPress. Contain 5 types of slider layout. Tested on all browser like Chrome, Mozilla, Safari, IE etc.."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Ultimate Responsive Image Slider Pro is very flexible and and compatible on all devices like ipad,iphone smart phone etc."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Plugin has extreme Admin dashboard. Plugin settings is very easy and user friendly.With Multiple Image Uploader you are easily add multiple images in seconds"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you have any question contact us at here: <a href=\"http://wordpress.org/support/plugin/ultimate-responsive-image-slider\">Plugin Support Forum </a>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the entire <strong>responsive-image-slider</strong> folder to the <strong>/wp-content/plugins/</strong> directory."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the <strong>Plugins</strong> menu in WordPress admin."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Create new gallery, Use <strong>[URIS id=123]</strong> shortcode to publish your image slider into any page or post."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "small changes in code.  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Resolved long description in safari.  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small bug fixed "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small design bug fixed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add Alt tag in slide images"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Compatible with wordpress 4.3.1"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small bug resolved."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New : Add Import/Export Settings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small Update in admin bootstrap css "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New Feature: Slide Translation Speed Setting"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New Feature: Slide Translation Effect Setting"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New Feature: Custom CSS Setting"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Delete all slide button"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Now you can embed the slider shortcode in any theme file and sidebar or footer widget"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Compatible with wordPress 4.3 version"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Resolved font of image titles is shrink problem for responsive views (safari). "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed small bug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Compatible with WordPress 4.2.2 version "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small changes in code"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Compatible with WordPress 4.2 version "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Resolved capitalization issue of title"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New Added hide/display slider title field setting"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change design style of slider title  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add Margin at bottom of slider "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Resolve Slide Title and Description layout problem for small container"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Resolve Admin pane conflict with another plugins"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "This is first and basic version of slider plugin."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "For more information, see Weblizar(http://wwww.weblizar.com/)."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "If any support required then post your query in WordPress <a href=\"http://wordpress.org/support/plugin/ultimate-responsive-image-slider\">Plugin Support Forum </a>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "It is really hard to continue development and support for this free plugin without contributions from users like you. If you are enjoying using our Responsive Photo Gallery plugin and find it useful, then please consider to write your positive <a href=\"http://wordpress.org/support/view/plugin-reviews/ultimate-responsive-image-slider\"><strong>Feedback</strong></a>. Your feedback will help us to encourage and support the plugin's continued development and better user support."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Please contribute to translate our plugin.  Contact at <code>lizarweb (at) gmail (dot) com</code>."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Please use WordPress <a href=\"http://wordpress.org/support/plugin/ultimate-responsive-image-slider\">support forum</a> to ask any query regarding any issue."
+msgstr ""

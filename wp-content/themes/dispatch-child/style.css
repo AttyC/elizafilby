@@ -1,0 +1,31 @@
+/*
+ Theme Name:   Dispatch Child
+ Theme URI:    http://atty-dev.co.uk/accelerate-theme-child/
+ Description:  Dispatch Child Theme - Dispatch
+ Author:       Antonia Cronin
+ Author URI:   http://example.com
+ Template:     dispatch
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  dispatch-child
+*/
+
+@import url("../dispatch/style.css");
+
+.contrast-typo {
+    background: #fff;
+    border-bottom: #ddd 2px solid;
+}
+#site-title {
+    color: #2F2E2E;
+}
+#site-description {
+    color: #2F2E2E;
+}
+
+#menu-primary-items > li > a {
+  color: #2F2E2E;
+}
+.sf-menu ul {
+  background: #ccc;
+}

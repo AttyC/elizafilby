@@ -1,0 +1,14 @@
+/*
+ Theme Name:   Radiate Child
+ Theme URI:    http://atty-dev.co.uk/accelerate-theme-child/
+ Description:  Radiate Child Theme - Radiate
+ Author:       Antonia Cronin
+ Author URI:   http://example.com
+ Template:     radiate
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  radiate-child
+*/
+
+@import url("../radiate/style.css");
+
