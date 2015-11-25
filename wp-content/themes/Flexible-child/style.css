@@ -11,5 +11,18 @@
 */
 
 @import url("../Flexible/style.css");
+body {
+   font-family: 'Josefin Sans', Arial, sans-serif !important;
+   font-size: 16px;
+}
 
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Quattrocento', Arial, sans-serif !important;
+}
+.post-content p, li a {
+  font-size: 16px;
+}
 
+#logo-area h2 {
+  float: none;
+}

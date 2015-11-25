@@ -37,5 +37,27 @@ function create_custom_post_types() {
             'rewrite' => array( 'slug' => 'reviews' ),
         )
     );
+    register_post_type( 'testimonials',
+        array(
+            'labels' => array(
+                'name' => __( 'Testimonials' ),
+                'singular_name' => __( 'Testimonial' )
+            ),
+            'public' => true,
+            'has_archive' => true,
+            'rewrite' => array( 'slug' => 'testmonials' ),
+        )
+    );
+        register_post_type( 'services',
+        array(
+            'labels' => array(
+                'name' => __( 'Services' ),
+                'singular_name' => __( 'Service' )
+            ),
+            'public' => true,
+            'has_archive' => true,
+            'rewrite' => array( 'slug' => 'services' ),
+        )
+    );
 }
 add_action( 'init', 'create_custom_post_types' );

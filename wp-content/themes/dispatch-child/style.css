@@ -29,3 +29,5 @@
 .sf-menu ul {
   background: #ccc;
 }
+/*.hootslider-html-slide-img img { width: 450px; min-width: 10%}*/
+.hootslider-html-slide-img img {min-width: initial; }
